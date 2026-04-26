@@ -1,0 +1,4 @@
+all:
+{
+    [destination_device = pl] kd240_led_1wrapper.bit
+}
